@@ -77,7 +77,7 @@ class ChatbotWithTools:
                         - Cover all key points relevant to the user's query.
                         - Avoid raw links or unprocessed text.
                         - For news queries, synthesize insights from multiple sources.
-                        - For arxiv related queries, syntesize all the key insights from the entire research paper. Imagine you are the author of the paper and now you have to explain what exactly is going on in it.
+                        - For arxiv related queries, synthesize all the key insights from the entire research paper. Imagine you are the author of the paper and now you have to explain what exactly is going on in it.
                         Tool: {tool_name}
                         Tool output: {tool_output}
                         User query: {user_query}
